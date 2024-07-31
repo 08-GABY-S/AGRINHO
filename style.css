@@ -29,5 +29,13 @@ ul {
     display: inline-block;
     vertical-align: top;
     width: 60%;
-    margin-right: 15%;
+    margin-right: 10%;
+    
+}
+img {
+    width: 500px;
+    height: auto;
+}
+img, p {
+    display: inline-block;
 }
