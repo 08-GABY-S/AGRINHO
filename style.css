@@ -39,3 +39,7 @@ img {
 img, p {
     display: inline-block;
 }
+#id-titulo {
+    background-color: rgb(61, 187, 103);
+  }
+  
