@@ -1,0 +1,9 @@
+img{
+    width: 30%;
+  }
+  div {
+    border: 6px solid rgb(49, 121, 255);
+}
+#id-titulo {
+  background-color: rgb(164, 200, 247);
+}

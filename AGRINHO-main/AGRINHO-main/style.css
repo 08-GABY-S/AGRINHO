@@ -1,0 +1,45 @@
+.h1 {
+    text-shadow: 2px 2px 4 px rgba(0, 0, 0, 0.5);
+    text-overflow: ellipsis;
+}
+.classe-exemplo {
+    font-size: 1.5em;
+}
+div {
+    border: 6px solid rgb(39, 109, 39);
+}
+.demoDiv {
+    border: 5px outset black;
+    background-color: rgb(39, 109, 39);
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.li {
+    color: rgb(207, 17, 17);
+}
+p { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.campo {
+    background: #FFFFFF;
+    padding: 20px;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 60%;
+    margin-right: 10%;
+    
+}
+img {
+    width: 500px;
+    height: auto;
+}
+img, p {
+    display: inline-block;
+}
+#id-titulo {
+    background-color: rgb(61, 187, 103);
+  }
+  
